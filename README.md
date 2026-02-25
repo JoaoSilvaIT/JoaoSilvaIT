@@ -1,5 +1,5 @@
 # 💫 About Me:
-3rd Year in Computer Science. Knowledge in Kotlin, Java, JavaScript, C, Assembly x86_64, HTML/CSS.
+3rd Year in Computer Science. Knowledge in Kotlin, Java, JavaScript/TypeScript and HTML/CSS.
 
 
 ## 🌐 Socials:
